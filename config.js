@@ -1,26 +1,26 @@
-global.owner = ['6281395861695']  
-global.mods = ['6281395861695'] 
-global.prems = ['6281395861695']
-global.nameowner = 'Tio'
-global.numberowner = '6281395861695' 
-global.mail = 'support@tioprm.eu.org' 
-global.gc = 'https://chat.whatsapp.com/CP5mV2D9IO730HpBgmkuyi'
-global.instagram = 'https://instagram.com/prm2.0'
-global.wm = '© Tio'
+global.owner = ['6283871874956']  
+global.mods = ['6283871874956'] 
+global.prems = ['6283871874956']
+global.nameowner = 'Jungz'
+global.numberowner = '6283871874956' 
+global.mail = 'sgevoakunff15@gmail.com' 
+global.gc = 'https://chat.whatsapp.com/'
+global.instagram = 'https://instagram.com/'
+global.wm = '© JungZ'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made With'
 global.author = 'Bot WhatsApp'
-global.autobio = false // Set true untuk mengaktifkan autobio
+global.autobio = true // Set true untuk mengaktifkan autobio
 global.maxwarn = '2' // Peringatan maksimum
 
 //INI WAJIB DI ISI!//
-global.btc = 'YOUR_APIKEY_HERE' 
+global.btc = 'a4VWCxpD' 
 //Daftar terlebih dahulu https://api.botcahx.eu.org
 
 //INI OPTIONAL BOLEH DI ISI BOLEH JUGA ENGGA//
-global.lann = 'YOUR_APIKEY_HERE'
+global.lann = 'LS2p2AV7'
 //Daftar https://api.betabotz.eu.org 
 
 global.APIs = {   
